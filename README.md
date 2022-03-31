@@ -1,4 +1,5 @@
-# ETC(简体中文版)
+# 三角形特征点百科全书(ETC)
+# 简体中文版
 ## 前言
 
 ETC(简体中文版)致力于翻译Clark Kimberling教授的[Encyclopedia of Triangle Centers](https://faculty.evansville.edu/ck6/encyclopedia/ETC.html)页面。  
