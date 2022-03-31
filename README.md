@@ -1,8 +1,7 @@
 # ETC(简体中文版)
 ## 前言
 
-ETC(简体中文版)致力于翻译Clark Kimberling教授的https://faculty.evansville.edu/ck6/encyclopedia/ETC.html
-页面。  
+ETC(简体中文版)致力于翻译Clark Kimberling教授的[Encyclopedia of Triangle Centers](https://faculty.evansville.edu/ck6/encyclopedia/ETC.html)页面。  
 注：已经经过原作者的许可。
 ## 联系我们
 
@@ -21,7 +20,7 @@ ETC(简体中文版)致力于翻译Clark Kimberling教授的https://faculty.evan
 ETC(简体中文版)所有点都采用原网站的编号，即“X(...)”。  
 稍微往下滚动几页就能找到一些知名的特征点；如果想找到其他已被命名的特征点的话，请按下键盘上的“`Ctrl+F`”，再在输入框中输入你想要的特征点名称。比方说，如果你输入“欧拉无穷远点”，浏览器会跳至X(30).
 每个点都有以下几个参数：  
-**三线性**：这点到三角形三边距离的比。表现为“到边a的距离:到边b的距离:到边c的距离”的形式。
+**三线坐标**：这点到三角形三边距离的比。表现为“到边a的距离:到边b的距离:到边c的距离”的形式。
 
 ***
 ## X(1) 内心
