@@ -16,6 +16,10 @@ ETC(简体中文版)致力于翻译Clark Kimberling教授的[Encyclopedia of Tri
 
 几个世纪过去了，有人证明出：在一个三角形中，三条中线确确实实交汇于一点.我们现在称这点为重心.有人也发现了其他特殊的交点，许多也有了自己的名字：例如内心、外心、垂心.又有几个世纪过去了，人们发现了更多的特殊点，出现了“三角形特征点”的定义.就如连续函数的定义一般，无限多的对象都满足这个定义，但是其中只有有限多的对象会被发现和记录.三角形特征点百科全书（ENCYCLOPEDIA OF TRIANGLE CENTERS, ETC for short）扩展了 1998 年出版的《三角形特征点以及特征三角形》一书中的 400 个三角形特征点列表，旨在帮助平面几何爱好者们更快捷地寻找到三角形特殊点.
 
+
+在[平面中的特征三次曲线](https://bernard-gibert.pagesperso-orange.fr/index.html)网站中，你可以看到这些特征点发挥了不可或缺的作用. 一些特征点与它们那些独有的性质也在平面中有关四点形的研究中心充分发挥了作用，见[特征四点形百科全书](https://chrisvantienhoven.nl/9-mathematics/encyclopedia-of-quadri-figures/3-encyclopedia-of-quadri-figures).
+
+
 ### 如何使用ETC(简体中文版)
 
 ETC(简体中文版)所有点都采用原网站的编号，即“X(...)”.  
